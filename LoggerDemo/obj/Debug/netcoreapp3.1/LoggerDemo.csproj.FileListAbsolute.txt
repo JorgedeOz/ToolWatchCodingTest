@@ -1,0 +1,17 @@
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.csprojAssemblyReference.cache
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.AssemblyInfoInputs.cache
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.AssemblyInfo.cs
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.csproj.CoreCompileInputs.cache
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.exe
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.deps.json
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.runtimeconfig.json
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.runtimeconfig.dev.json
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.dll
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerDemo.pdb
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerLibrary.dll
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\LoggerLibrary.pdb
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.csproj.CopyComplete
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.dll
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.pdb
+C:\Projects\ToolWatch\LoggerDemo\obj\Debug\netcoreapp3.1\LoggerDemo.genruntimeconfig.cache
+C:\Projects\ToolWatch\LoggerDemo\bin\Debug\netcoreapp3.1\System.Text.Json.dll

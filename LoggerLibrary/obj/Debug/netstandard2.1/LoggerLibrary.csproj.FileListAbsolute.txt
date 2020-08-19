@@ -1,0 +1,9 @@
+C:\Projects\ToolWatch\LoggerLibrary\bin\Debug\netstandard2.1\LoggerLibrary.deps.json
+C:\Projects\ToolWatch\LoggerLibrary\bin\Debug\netstandard2.1\LoggerLibrary.dll
+C:\Projects\ToolWatch\LoggerLibrary\bin\Debug\netstandard2.1\LoggerLibrary.pdb
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.csprojAssemblyReference.cache
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.AssemblyInfoInputs.cache
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.AssemblyInfo.cs
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.dll
+C:\Projects\ToolWatch\LoggerLibrary\obj\Debug\netstandard2.1\LoggerLibrary.pdb

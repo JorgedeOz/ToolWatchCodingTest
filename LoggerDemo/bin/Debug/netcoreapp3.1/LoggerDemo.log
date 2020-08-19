@@ -1,0 +1,26 @@
+[2020-08-19T11:14:32:5650][INFO][LoggerDemo.Program][Initializing program...]
+[2020-08-19T11:14:34:0918][INFO][LoggerDemo.Program][Initialization finished]
+[2020-08-19T11:14:35:6106][INFO][LoggerDemo.Processes][Initializing class...]
+[2020-08-19T11:14:35:6127][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":1,"Value":569}]
+[2020-08-19T11:14:35:6332][ERROR][LoggerDemo.Processes][An error ocurred while processing][System.Exception: The value is lower than 2000!
+   at LoggerDemo.Processes..ctor(ILogger logger) in C:\Projects\ToolWatch\LoggerDemo\Processes.cs:line 22]
+[2020-08-19T11:14:35:6486][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":2,"Value":1471}]
+[2020-08-19T11:14:35:6495][ERROR][LoggerDemo.Processes][An error ocurred while processing][System.Exception: The value is lower than 2000!
+   at LoggerDemo.Processes..ctor(ILogger logger) in C:\Projects\ToolWatch\LoggerDemo\Processes.cs:line 22]
+[2020-08-19T11:14:35:6505][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":3,"Value":1112}]
+[2020-08-19T11:14:35:6511][ERROR][LoggerDemo.Processes][An error ocurred while processing][System.Exception: The value is lower than 2000!
+   at LoggerDemo.Processes..ctor(ILogger logger) in C:\Projects\ToolWatch\LoggerDemo\Processes.cs:line 22]
+[2020-08-19T11:14:35:6528][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":4,"Value":364}]
+[2020-08-19T11:14:35:6534][ERROR][LoggerDemo.Processes][An error ocurred while processing][System.Exception: The value is lower than 2000!
+   at LoggerDemo.Processes..ctor(ILogger logger) in C:\Projects\ToolWatch\LoggerDemo\Processes.cs:line 22]
+[2020-08-19T11:14:35:6553][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":5,"Value":2332}]
+[2020-08-19T11:14:35:6563][WARNING][LoggerDemo.Processes][The value is divisible by 2!]
+[2020-08-19T11:14:37:1775][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":6,"Value":4240}]
+[2020-08-19T11:14:37:1798][WARNING][LoggerDemo.Processes][The value is divisible by 2!]
+[2020-08-19T11:14:38:6971][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":7,"Value":2806}]
+[2020-08-19T11:14:38:6999][WARNING][LoggerDemo.Processes][The value is divisible by 2!]
+[2020-08-19T11:14:40:2107][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":8,"Value":6566}]
+[2020-08-19T11:14:40:2135][WARNING][LoggerDemo.Processes][The value is divisible by 2!]
+[2020-08-19T11:14:41:7279][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":9,"Value":6291}]
+[2020-08-19T11:14:43:2421][DEBUG][LoggerDemo.Processes][Checking process][{"ProcessId":10,"Value":2109}]
+[2020-08-19T11:14:46:2746][INFO][LoggerDemo.Program][Finished!]
