@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ToolWatch\\LoggerDemo\\LoggerDemo.csproj": {}
+    "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\LoggerDemo.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ToolWatch\\LoggerDemo\\LoggerDemo.csproj": {
+    "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\LoggerDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ToolWatch\\LoggerDemo\\LoggerDemo.csproj",
+        "projectUniqueName": "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\LoggerDemo.csproj",
         "projectName": "LoggerDemo",
-        "projectPath": "C:\\Projects\\ToolWatch\\LoggerDemo\\LoggerDemo.csproj",
+        "projectPath": "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\LoggerDemo.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ToolWatch\\LoggerDemo\\obj\\",
+        "outputPath": "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\ToolWatch\\LoggerLibrary\\LoggerLibrary.csproj": {
-                "projectPath": "C:\\Projects\\ToolWatch\\LoggerLibrary\\LoggerLibrary.csproj"
+              "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\LoggerLibrary.csproj": {
+                "projectPath": "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\LoggerLibrary.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Projects\\ToolWatch\\LoggerLibrary\\LoggerLibrary.csproj": {
+    "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\LoggerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ToolWatch\\LoggerLibrary\\LoggerLibrary.csproj",
+        "projectUniqueName": "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\LoggerLibrary.csproj",
         "projectName": "LoggerLibrary",
-        "projectPath": "C:\\Projects\\ToolWatch\\LoggerLibrary\\LoggerLibrary.csproj",
+        "projectPath": "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\LoggerLibrary.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ToolWatch\\LoggerLibrary\\obj\\",
+        "outputPath": "C:\\Projects\\ToolWatchCodingTest\\LoggerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config"

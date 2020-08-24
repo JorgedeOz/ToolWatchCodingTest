@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kEG9hBrjUJP3vwkKEVxSG1rZxgydzU8k596CoKh8HNmjvqvyZqQjgwCpEjgMFvUDKnUU9Db0crUNa5/C3vS/XQ==",
+  "dgSpecHash": "tfqB2/PFSmZ0yraGet2pFa4+XyAEnrqSldT+aP5gLFuT/L8Egaya3qVS2OGoZm4m6lm1wlrDtXRBSin+PIT4PA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ToolWatch\\LoggerDemo\\LoggerDemo.csproj",
+  "projectFilePath": "C:\\Projects\\ToolWatchCodingTest\\LoggerDemo\\LoggerDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
