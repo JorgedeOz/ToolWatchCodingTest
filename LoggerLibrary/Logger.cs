@@ -36,7 +36,7 @@ namespace LoggerLibrary
         /// </summary>
         public string LogFileName {get; set;} = AppDomain.CurrentDomain.FriendlyName + ".log";
         private string LogFilePath {get {
-            return $@"{LogPath}\{LogFileName}";
+            return $@"{LogPath}{LogFileName}";
         }}
 
         /// <summary>
@@ -92,8 +92,17 @@ namespace LoggerLibrary
                 Overwritten = true;
             }                       
             var directory = Path.GetDirectoryName(filePath);
+            if(string.IsNullOrEmpty(directory)){
+                Console.WriteLine($"The directory '{directory}' could not be created");
+                return;
+            }
             if(!Directory.Exists(directory)){
-                Directory.CreateDirectory(directory);
+                try{
+                    Directory.CreateDirectory(directory);
+                }catch(Exception ex){
+                    Console.WriteLine($"An unexpected error ocurred: {ex.ToString()}");
+                    return;
+                }                
             }                             
             using (StreamWriter sw = File.AppendText(filePath))
             {

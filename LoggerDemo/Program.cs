@@ -21,7 +21,7 @@ namespace LoggerDemo
             }
             Thread.Sleep(1500);
             logger.LogInfo(Tag,"Finished!");
-            logger.PushLogsToFile(@"c:\logs\mylog.log");            
+            //logger.PushLogsToFile(@"c:\logs\mylog.log");            
         }
     }
 }
